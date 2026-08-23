@@ -1,2 +1,2 @@
 build: dev 23 aug
-update: crash fix nigga balls
+update: added FS,Hitboxes in rage +subtick strafe fix
