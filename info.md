@@ -1,2 +1,2 @@
 build: dev 23 aug
-update: crash fix
+update: crash fix nigga balls
