@@ -1,2 +1,2 @@
 build: dev 26 aug
-update: upd to latest game build
+update: aa fix (50%), unload cfg
