@@ -1,2 +1,2 @@
 build: dev 23 aug
-update: fixed subtick strafer
+update: upd to latest game build
