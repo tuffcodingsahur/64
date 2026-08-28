@@ -1,2 +1,2 @@
-build: dev 26 aug
-update: aa fix (50%), unload cfg
+build: dev 28 aug
+update: subtick strafer fix
