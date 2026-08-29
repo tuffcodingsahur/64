@@ -1,2 +1,2 @@
-build: dev 28 aug
-update: subtick strafer fix
+build: dev 29 aug
+update: wishspeed strafing fix
