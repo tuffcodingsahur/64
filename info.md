@@ -1,2 +1,2 @@
-build: dev 29 aug
-update: wishspeed strafing fix
+build: dev 30 aug
+update: bhop+strafer fix
